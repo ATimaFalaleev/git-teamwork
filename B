@@ -1,0 +1,2 @@
+git clone git@github.com:ATimaFalaleev/git-teamwork.git
+cd git-teamwork
